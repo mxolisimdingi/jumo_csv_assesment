@@ -1,0 +1,13 @@
+C:\Users\tmakoba\Desktop\CSV_import_export\bin\Debug\CSV_import_export.exe.config
+C:\Users\tmakoba\Desktop\CSV_import_export\bin\Debug\CSV_import_export.exe
+C:\Users\tmakoba\Desktop\CSV_import_export\bin\Debug\CSV_import_export.pdb
+C:\Users\tmakoba\Desktop\CSV_import_export\obj\Debug\CSV_import_export.csprojResolveAssemblyReference.cache
+C:\Users\tmakoba\Desktop\CSV_import_export\obj\Debug\CSV_import_export.frmExport.resources
+C:\Users\tmakoba\Desktop\CSV_import_export\obj\Debug\CSV_import_export.frmImport.resources
+C:\Users\tmakoba\Desktop\CSV_import_export\obj\Debug\CSV_import_export.frmMain.resources
+C:\Users\tmakoba\Desktop\CSV_import_export\obj\Debug\CSV_import_export.Properties.Resources.resources
+C:\Users\tmakoba\Desktop\CSV_import_export\obj\Debug\CSV_import_export.csproj.GenerateResource.Cache
+C:\Users\tmakoba\Desktop\CSV_import_export\obj\Debug\CSV_import_export.exe
+C:\Users\tmakoba\Desktop\CSV_import_export\obj\Debug\CSV_import_export.pdb
+C:\Users\tmakoba\Desktop\CSV_import_export\bin\Debug\CSV_DB.mdf
+C:\Users\tmakoba\Desktop\CSV_import_export\bin\Debug\CSV_DB_log.ldf
